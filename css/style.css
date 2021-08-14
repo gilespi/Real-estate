@@ -1558,9 +1558,10 @@ button.btn:active:focus, button.btn.active:focus {
 	}
 }
 
-@media (min-width: 576px)
+@media (min-width: 576px) {
 .container {
     max-width: 640px !important;
+}
 }
 
 .offset-top-24 {
