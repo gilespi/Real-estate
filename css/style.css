@@ -385,6 +385,12 @@ animation: fadeIn  3s;
 	text-shadow: 4px 3px 0 #7a7a7a;
 }
 
+@media(max-width:589px){
+	.image-txt {
+		top: -100px !important;
+	}
+}
+
 .hero-wrap {
   width: 100%;
   position: absolute;
