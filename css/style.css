@@ -1553,15 +1553,21 @@ button.btn:active:focus, button.btn.active:focus {
 }
 
 @media (min-width: 576px) {
-	.container {
-		text-align: center !important;
-	}
+  .container {
+    text-align: center !important;
+ }
 }
 
 @media (min-width: 576px) {
-.container {
+  .container {
     max-width: 640px !important;
 }
+}
+
+@media (min-width: 576px) {
+   .offset-top-30 {
+     margin-top: 30px !important;
+ }
 }
 
 .offset-top-24 {
